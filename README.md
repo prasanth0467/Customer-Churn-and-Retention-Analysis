@@ -42,6 +42,7 @@ The Power BI dashboard contains:
 - report/ → Detailed project report
 
 ## Business Impact
-- Identifies high-value customers at risk of churn
-- Highlights critical retention drop-off points
-- Enables targeted and data-driven retention actions
+- Identifies At-Risk and Lost customers using RFM-based behavioral patterns
+- Quantifies revenue concentration across customer segments to prioritize retention efforts
+- Highlights cohort-level retention drop-offs to inform lifecycle interventions
+- Enables targeted, data-driven retention actions supported by churn probability scores
