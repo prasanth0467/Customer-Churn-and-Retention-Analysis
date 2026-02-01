@@ -103,7 +103,8 @@ The Power BI dashboard is structured into two pages:
 * Cohort retention heatmap
 * Feature importance insights
 
-*(Dashboard screenshots included in the repository.)*
+![Dashboard page2](page1.png) 
+![Dashboard page1](page2.png)
 
 ---
 
